@@ -1,0 +1,13 @@
+name: huawei_sales_elite
+description: Arabic sales skills training app for Android and iOS.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  supabase_flutter: ^2.8.4
+  shared_preferences: ^2.3.5
+flutter:
+  uses-material-design: true
